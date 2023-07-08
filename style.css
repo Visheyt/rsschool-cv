@@ -36,13 +36,10 @@
         list-style-type: none;
     }
     .footer li {
-        display: inline;
-        text-align: center;
-        align-items: center;
+        display: inline-block;
+ 
     }
-    .footer img {
-        align-items: center;
-    }
+
     .year {
         font-size: 20px;
         font-weight: 900;
