@@ -1,0 +1,46 @@
+    .my_photo {
+        padding-left: 50px;
+        border-radius: 50%;
+    }   
+    body {
+        background-color: rgb(199, 199, 199);
+        max-width: 500px;
+        margin: auto;
+    }
+    .navigation {
+        text-align: center;
+        list-style-type: none;
+    }
+    .navigation li {
+        display: inline;
+        padding: 5px
+    }
+    .Contacts ul {
+        list-style-type: none;
+    }
+    .Contacts h3 {
+        padding-right: 35px;
+    }
+    .Contacts p {
+        padding-right: 35px;
+        text-align: center;
+    }
+    .Skills ul {
+        list-style-type: none;
+    }
+    .Skills li {
+        padding-right: 5px;
+    }
+
+    .footer ul {
+        list-style-type: none;
+    }
+    .footer li {
+        display: inline-block;
+ 
+    }
+
+    .year {
+        font-size: 20px;
+        font-weight: 900;
+    }
